@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Luke's flat</title>
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+
+        <header>
+          <h1>Luke's flat</h1>
+          <h2>Greenwich, London</h2>
+        </header>
+
+        <hr>
+
+        <section id="main_content">
+          <h3>
+<a id="welcome" class="anchor" href="#welcome" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome</h3>
+
+<p>Yay!  You managed to find my flat.</p>
+<p>There's snacks in the 2nd cupboard from the left above the kitchen counter.  Booze is in the cupboard to the right of that one.  And there's some hot drinks &amp; mugs in the cupboard on the far right (above the kettle).</p>
+        </section>
+
+
+        
+      </div>
+    </div>
+  </body>
+</html>
